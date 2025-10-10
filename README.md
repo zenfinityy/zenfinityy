@@ -37,7 +37,7 @@ the beast
 
 - [**Mythic**](https://github.com/MythicApp) – *Run Windows® games on macOS* | **creator & sole dev 🧠💻**
   
-  gonna go platinum, mark my words.
+  gonna make it out mark my words
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MythicApp&repo=Mythic&border_radius=8&hide_border=true)](https://github.com/MythicApp/Mythic)
 
@@ -70,16 +70,16 @@ the beast
 
 <!--will add icons-->
 #### 🔠 • languages 
-- **swift** - my GOAT, the language i use for Mythic (3/3 proficiency)
-- **python** - goated OOP + are you even a software dev if you don't know python? (3/3 proficiency)
-- **html** - it just works (2/3 proficiency)
-- **css** - versatile and doesnt love throwing random errors at me so im happy (2/3 proficiency)
-- **go** - surprisingly good, py still my goat (2/3 proficiency)
-- **lua** - my day 1 language. the amount of hours spent on roblox coding in lua is PREPOSTEROUS (2/3 proficiency outside of ROBLOX)
-- ~~javascript~~ **typescript** - we should nuke javascript in favour of typescript (1/3 proficiency)
-- **C#** - learned for fun, never used practically (1/3 proficiency)
+- **swift** - my GOAT, the language i use for Mythic ⭐⭐⭐⭐∙
+- **python** - goated OOP + are you even a software dev if you don't know python? ⭐⭐⭐⭐∙
+- **html** - it just works ⭐⭐⭐∙∙
+- **css** - versatile and doesnt love throwing random errors at me so im happy ⭐⭐⭐∙∙
+- **go** - surprisingly good, py still my goat (2/3 proficiency) ⭐⭐⭐∙∙
+- **lua** - my day 1 language. the amount of hours spent on roblox coding in lua is PREPOSTEROUS (⭐⭐⭐∙∙ outside of ROBLOX)
+- ~~javascript~~ **typescript** - we should nuke javascript in favour of typescript ⭐⭐∙∙∙
+- **C#** - learned for fun, never used practically ⭐⭐∙∙∙
 
-####
+<sub><strong>yes</strong> i rated my own proficiency <strong>yes</strong> it's like marking my own work</sub>
 
 ### 🤑 • occupations
 - i work with @MouseAndKeyboard as a software subcontractor 🗣️🗣️🤑🤑🤑
