@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - built different™ but still use `nano` sometimes 🗣️
 - "when in doubt, try again using `sudo`" 🛐🔔
 - love cars, love tech, love life **(hate xcode)**
-- life is too short but i'm 6'6 how that work twih 🥀
+- life is too short but i'm 6'7 how that work twih 🥀
 
 ### 🙋🏾 • what am i?
 the beast
