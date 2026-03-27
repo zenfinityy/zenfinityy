@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### 🧏🏾 • who am i?
 
-- 17 year old programming MENACE 🌐🥷🏾
+- 18 (🦖🦖🦖) year old programming MENACE 🌐🥷🏾
 - built different™ but still use `nano` sometimes 🗣️
-- "when in doubt, try again using `sudo`" 🛐🔔
+- "when in doubt, try again using `sudo`" 🛐
 - love cars, love tech, love life **(hate xcode)**
 - life is too short but i'm 6'7 how that work twih 🥀
 
@@ -83,7 +83,7 @@ the beast
 - i work with @MouseAndKeyboard as a software subcontractor 🗣️🗣️🤑🤑🤑
 
 ###  🚀 • aspirations
-- do cybersec (how shocking and polarising!!!!)
+- do cybersec maybe ai maybe just eng (how shocking and polarising!!!!)
 - make bank doing cybersec
 - buy car idk
 
